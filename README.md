@@ -1,3 +1,3 @@
 # InsiderTestAutomation
 
-Logs in directory : Log>TestLogs.txt
+Logs in directory : Log>TestLogs.log
